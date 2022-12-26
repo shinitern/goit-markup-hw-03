@@ -173,7 +173,7 @@ body {
   cursor: pointer;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
-  border-color: #4d5ae5;
+  border: 0px;
   min-width: 170px;
   height: 51px;
 }
